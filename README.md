@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jimmyfk
 - 👀 I’m interested in learning and coding
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Angular and any open source software
 - 📫 How to reach me:
 
 <!---
