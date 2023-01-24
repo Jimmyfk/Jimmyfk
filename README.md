@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimmyfk, I use light theme on my IDE, I'm evil
 - 👀 I’m interested in learning and coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ethical hacking 🧐
 - 💞️ I’m looking to collaborate on Angular and any open source software
 - 📫 How to reach me:
 
